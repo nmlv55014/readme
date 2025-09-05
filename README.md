@@ -1,4 +1,5 @@
-# readme
+# About Me
+
 University of Minnesota Student
 Information Technology Infrasctructure Major
 
